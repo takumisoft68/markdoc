@@ -1,7 +1,7 @@
 # markdoc
 Windows CUI tool to convert markdown to html/pdf.
 
-- [3.2. A:：!！?？。、・()（）<>＜＞A%％&＆てすと-2](#user-content-32-a・＜＞a％＆てすと-2)
+- [3.2. A:：!！?？。、・()（）<>＜＞A%％&＆てすと-2](#user-content-32-aaてすと-2)
 
 ## 1. A、A:A
 
